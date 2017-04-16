@@ -17,16 +17,17 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 8. **[Learn React.js](#learn-react-js)**
 9. **[Full Stack Tutorials](#full-stack-tutorials)**
 10. **[Learn Node.js](#learn-node-js)**
-11. **[Learn APIs](#learn-apis)**
-12. **[Learn Databases](#learn-databases)**
-13. **[Learn Authentication](#learn-authentication)**
-14. **[Learn Git](#learn-git)**
-15. **[Games & Challenge Websites](#games-and-challenge-websites)**
-16. **[Free Programming Books](#free-programming-books)**
-17. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
-18. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
-19. **[Software Developer Success Stories](#software-developer-success-stories)**
-20. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
+11. **[Learn Python](#learn-python)**
+12. **[Learn APIs](#learn-apis)**
+13. **[Learn Databases](#learn-databases)**
+14. **[Learn Authentication](#learn-authentication)**
+15. **[Learn Git](#learn-git)**
+16. **[Games & Challenge Websites](#games-and-challenge-websites)**
+17. **[Free Programming Books](#free-programming-books)**
+18. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
+19. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
+20. **[Software Developer Success Stories](#software-developer-success-stories)**
+21. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
 
 ---
 ### Start Here
@@ -73,9 +74,8 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)
 * [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
 * Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
-  * JavaScript / Node / Angular 1 & 2 / React / Elm / C# / PHP / SQL / Git [Google Drive](https://drive.google.com/folderview?id=0BztLOG55I2FVT0NNLTVXM1JOYlk&usp=sharing)
-* What to do after Colt Steele's course
-  * [Watch And Code](https://watchandcode.com/)
+* JavaScript / Node / Angular 1 & 2 / React / Elm / C# / PHP / SQL / Git [Google Drive](https://drive.google.com/folderview?id=0BztLOG55I2FVT0NNLTVXM1JOYlk&usp=sharing)
+* [Watch And Code](https://watchandcode.com/)
 * [RegexOne](http://regexone.com/) - Learn Regular Expressions
 * [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
 
@@ -184,6 +184,12 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * [Building a modern backend API with Node](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [Node JS Login with Passport - YouTube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
 * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+---
+### Learn Python
+* [15 Free e-books to learn Python](https://medium.com/@bmorelli25/15-free-ebooks-to-learn-python-c299943f9f2c)
+* [Programming Foundations with Python - Udacity](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+* [Designing RESTful APIs - Udacity](https://www.udacity.com/course/designing-restful-apis--ud388)
 
 ---
 ### Learn APIs
@@ -296,6 +302,8 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 ---
 ### Get The Job
 **Resume, Portfolio, LinkedIn, Interview Prep, and Salary Information**
+* Make your portfolio
+  * [Customizable Web Developer Portfolio](https://github.com/bmorelli25/portfolio-template) - Built with Flexbox. 
 
 * How to Apply
   * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned. (Medium)](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.lpuzt5pnw)
